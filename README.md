@@ -5,7 +5,11 @@
 
 ### 🧑‍💼 About Me
 
-I'm a full-stack software developer with a strong focus on backend development. With years of experience working across a variety of technologies and cloud platforms, I enjoy building scalable, secure, and maintainable systems. Outside of coding, I'm a proud father of two and constantly driven to improve as both a developer and a lifelong learner.
+I'm a full-stack software developer with a strong focus on backend development. With years of experience working across a variety of technologies and cloud platforms, I enjoy architecting scalable, secure, and maintainable systems.
+
+As a builder and former backend developer at Goji Labs, I’ve led technical solutions that solve real-world problems. I value clarity, innovation, and efficiency — and I’m always looking for ways to turn ideas into impact.
+
+Outside of coding, I'm a proud father of two and constantly driven to improve — both as a developer and a lifelong learner. Whether it’s refining systems or starting something from scratch, I believe in building with purpose.
 
 ---
 
